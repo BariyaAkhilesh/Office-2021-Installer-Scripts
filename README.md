@@ -6,8 +6,8 @@ Automated batch scripts to silently install **Microsoft Office 2024 ProPlus Volu
 
 ## 🧑‍💻 Developed By
 
-**Rohit Vadher**  
-GitHub: [@itsrohit239](https://github.com/itsrohit239)
+**MR:-BARIA AKHILESH **  
+GitHub: [@BariyaAkhilesh](https://github.com/BariyaAkhilesh)
 
 ---
 
